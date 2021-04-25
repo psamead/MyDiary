@@ -1,5 +1,5 @@
 # MyDiary
-This is just some random thoughts
+This is just a random thought.
 
 Apirl 1st 2021
 
